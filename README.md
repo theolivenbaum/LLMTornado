@@ -494,6 +494,7 @@ orange: 2
 - [NotT3Chat](https://github.com/shaltielshmid/NotT3Chat) - The C# Answer to the T3 Stack.
 - [ClaudeCodeProxy](https://github.com/salty-flower/ClaudeCodeProxy) - Provider multiplexing proxy.
 - [Semantic Search](https://github.com/primaryobjects/semantic-search) - AI semantic search where a query is matched by context and meaning.
+- [Curiosity Workspace](https://curiosity.ai/) - Semantic search, knowledge graph and AI platform for enterprise data.
 
 _Have you built something with Tornado? Let us know about it in the issues to get a spotlight!_
 
